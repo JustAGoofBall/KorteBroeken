@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Korte Broek Weer";
+    var antwoord = ViewData["Antwoord"] as string ?? "";
+    var temperatuur = ViewData["Temperatuur"];
+    var regenkans = ViewData["Regenkans"];
+    var afbeelding = ViewData["Afbeelding"] as string ?? "~/images/kortebroek-question.png";
+}
+<div class="container py-5">
+    <div class="row align-items-center justify-content-center g-4">
+        <div class="col-12 col-md-6 text-center mb-4 mb-md-0">
+            <h2 class="display-5 mb-3">@antwoord</h2>
+            <div class="d-flex flex-column flex-md-row justify-content-center align-items-center gap-3 mb-3">
+                <span class="badge bg-primary fs-5">Temperatuur: @temperatuur&nbsp;°C</span>
+                <span class="badge bg-info text-dark fs-5">Regenkans: @regenkans&nbsp;%</span>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 text-center">
+            <img src="@afbeelding" alt="Korte Broek Weer" class="img-fluid" style="max-width:250px;" />
+        </div>
+    </div>
+</div>
