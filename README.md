@@ -1,31 +1,31 @@
 # ☀️ Kan ik een korte broek aan?
 
-<img width="2880" height="1728" alt="Schermafbeelding 2025-09-24 115245" src="https://github.com/user-attachments/assets/28bd7fbb-74bf-45d2-b405-638a11c68439" />
+<img width="2880" height="1728" alt="Schermafbeelding 2025-09-24 115245" src="https://github.com/user-attachments/assets/525535bd-1518-455a-b379-67660e02aac2" />
 
 ## 📚 About
 
 **Kan ik een korte broek aan?** is a **school project** built with **ASP.NET MVC** in **Visual Studio**.  
-In this project, I learned about the **basic functions** and structure of the MVC pattern by creating a small web app that determines whether you can wear shorts based on the temperature and chance of rain.
+The purpose of this project was to learn about the **basic functions** of the MVC framework — how **controllers**, **models**, and **views** work together to create a dynamic web application.
 
 ## 🧩 Features
 
-- Enter temperature and rain chance  
+- Enter the **temperature** and **chance of rain**  
 - Displays whether it’s a good day to wear shorts 👕🩳  
-- Clean and responsive layout using **Bootstrap**  
-- Simple and effective use of **MVC controllers, models, and views**  
-- Friendly visual feedback with color-coded weather info  
+- Dynamically generated output using MVC controllers and views  
+- Simple, clear interface for demonstrating logic and data flow  
+- Practical example of how user input affects controller responses  
 
 ## 🛠️ Built With
 
-- **C#** — Logic and controllers  
+- **C#** — Backend logic and controller handling  
 - **ASP.NET MVC** — Application structure  
-- **HTML** — Content layout  
-- **CSS / Bootstrap** — Styling and responsiveness  
-- **JavaScript** — Basic dynamic behavior  
+- **HTML** — Page layout  
+- **CSS** — Styling  
+- **JavaScript** — Simple client-side interactions  
 - **Visual Studio** — Development environment  
 
 ## 🚀 How to Run
 
-1. Clone this repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/JustAGoofBall/KorteBroeken.git
