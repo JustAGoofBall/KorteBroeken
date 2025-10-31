@@ -1,6 +1,6 @@
 # ☀️ Kan ik een korte broek aan?
 
-<img width="1280" height="720" alt="Korte Broeken Screenshot" src="https://github.com/user-attachments/assets/26a45016-68c0-4afd-8df0-027f92e4b9a1" />
+<img width="2880" height="1728" alt="Schermafbeelding 2025-09-24 115245" src="https://github.com/user-attachments/assets/28bd7fbb-74bf-45d2-b405-638a11c68439" />
 
 ## 📚 About
 
